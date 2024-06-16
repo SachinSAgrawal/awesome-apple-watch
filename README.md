@@ -209,6 +209,7 @@ Awesome Apple Watch is an awesome list for people who need a certain feature on 
 * [WorkoutExporter](https://github.com/WorkoutExporter/WorkoutExporter) - Exporting Workouts tracked by Apple Watch into files ready for sharing
 * [TermiWatch](https://github.com/kuglee/TermiWatch) - Terminal Watch Face for Apple Watch
 * [WatchTube](https://github.com/WatchTubeTeam/WatchTube) - Powerful YouTube client for Apple Watch
+* [DinoGame](https://github.com/SachinSAgrawal/Dino-Game) - Bring the iconic Google Chrome no-internet Dinosaur Game to your wrist
 
 # Other Awesome Lists
 
